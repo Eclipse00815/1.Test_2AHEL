@@ -19,7 +19,7 @@ int main
 
             else if (leet == 0) {
                 int rechnung = text*(-1);
-                printf(text)
+                printf(rechnung)
             }
         }
     }
